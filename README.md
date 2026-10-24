@@ -20,7 +20,7 @@ Over 120 minutes Argentina had 20 shots worth **2.76 xG**; France had 10 shots w
 
 | Shot map | xG timeline |
 |---|---|
-| ![Shot map](assets/shot_map.png) | ![xG timeline](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/xg_timeline.png) |
+| ![Shot map](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/shot_map.png) | ![xG timeline](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/xg_timeline.png) |
 
 | Messi's passes (49 of 60 completed) | Argentina's pressure |
 |---|---|
