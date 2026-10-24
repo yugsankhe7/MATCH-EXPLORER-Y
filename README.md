@@ -1,6 +1,6 @@
 # StatsBomb Match Explorer
 
-![Match Explorer showcase](assets/showcase_banner.png)
+![Match Explorer Showcase](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/showcase_banner.png) 
 
 A Streamlit dashboard for digging into any match in [StatsBomb's free open data](https://github.com/statsbomb/open-data). Pick a competition and a match, then look at the game through shots, xG, passing and defensive pressure.
 
@@ -20,11 +20,11 @@ Over 120 minutes Argentina had 20 shots worth **2.76 xG**; France had 10 shots w
 
 | Shot map | xG timeline |
 |---|---|
-| ![Shot map](assets/shot_map.png) | ![xG timeline](assets/xg_timeline.png) |
+| ![Shot map](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/shot_map.png) | ![xG timeline](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/xg_timeline.png) |
 
 | Messi's passes (49 of 60 completed) | Argentina's pressure |
 |---|---|
-| ![Pass map](assets/pass_map.png) | ![Pressure heatmap](assets/pressure_heatmap.png) |
+| ![Pass map](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/pass_map.png) | ![Pressure heatmap](https://github.com/yugsankhe7/MATCH-EXPLOLER/blob/assets/pressure_heatmap.png) |
 
 ## Run it
 
