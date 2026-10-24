@@ -1,6 +1,6 @@
 # StatsBomb Match Explorer
 
-![Match Explorer showcase](assets/showcase_banner.png)
+![Match Explorer Showcase](assets/showcase_banner.png) 
 
 A Streamlit dashboard for digging into any match in [StatsBomb's free open data](https://github.com/statsbomb/open-data). Pick a competition and a match, then look at the game through shots, xG, passing and defensive pressure.
 
